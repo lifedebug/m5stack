@@ -25,4 +25,3 @@ PS:
 
 >   [Youtube](https://www.youtube.com/watch?v=mV5-a0F4_p8)
 
->   [github](https://github.com/lifedebug/m5stack)
