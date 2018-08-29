@@ -23,5 +23,5 @@ PS:
 
 6.  视频地址：[Youku](https://v.youku.com/v_show/id_XMzgwMTUxMTAxMg==.html?spm=a2h0k.11417342.soresults.dposter)
 
->   [Youtube](https://www.youtube.com/watch?v=mV5-a0F4_p8)
+>   [Youtube](https://youtu.be/mV5-a0F4_p8)
 
